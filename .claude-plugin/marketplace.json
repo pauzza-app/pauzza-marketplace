@@ -1,0 +1,19 @@
+{
+  "name": "pauzza",
+  "owner": {
+    "name": "Pauzza"
+  },
+  "description": "The official Pauzza add-on.",
+  "plugins": [
+    {
+      "name": "pauzza",
+      "description": "Pauzza practice run with fictional test offers.",
+      "source": {
+        "source": "github",
+        "repo": "pauzza-app/pauzza-addon",
+        "ref": "pauzza--v0.20.2",
+        "sha": "30e961ca1d83f92a78328cad28147c2bf31676e2"
+      }
+    }
+  ]
+}
