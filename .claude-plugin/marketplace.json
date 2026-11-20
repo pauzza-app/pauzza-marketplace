@@ -7,12 +7,12 @@
   "plugins": [
     {
       "name": "pauzza",
-      "description": "Pauzza practice run with fictional test offers.",
+      "description": "Pauzza: offers and promo codes while your AI tool works.",
       "source": {
         "source": "github",
         "repo": "pauzza-app/pauzza-addon",
-        "ref": "pauzza--v0.20.2",
-        "sha": "30e961ca1d83f92a78328cad28147c2bf31676e2"
+        "ref": "pauzza--v0.21.0",
+        "sha": "30437b5fb35eb05609fe50e74ebc9ef3daca8cfb"
       }
     }
   ]
