@@ -11,8 +11,8 @@
       "source": {
         "source": "github",
         "repo": "pauzza-app/pauzza-addon",
-        "ref": "pauzza--v0.21.0",
-        "sha": "30437b5fb35eb05609fe50e74ebc9ef3daca8cfb"
+        "ref": "pauzza--v0.21.1",
+        "sha": "1642a51b532ee885aeb6ee9b0536f703721f7861"
       }
     }
   ]
