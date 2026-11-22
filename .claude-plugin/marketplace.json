@@ -9,8 +9,8 @@
       "name": "pauzza",
       "description": "Pauzza: offers and promo codes while your AI tool works.",
       "source": {
-        "source": "github",
-        "repo": "pauzza-app/pauzza-addon",
+        "source": "url",
+        "url": "https://github.com/pauzza-app/pauzza-addon.git",
         "ref": "pauzza--v0.21.1",
         "sha": "1642a51b532ee885aeb6ee9b0536f703721f7861"
       }
